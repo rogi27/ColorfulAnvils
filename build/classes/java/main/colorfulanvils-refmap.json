@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "space/ryzhenkov/colorfulanvils/mixins/AnvilScreenHandlerMixin": {
+      "Lnet/minecraft/item/ItemStack;setCustomName(Lnet/minecraft/text/Text;)Lnet/minecraft/item/ItemStack;": "Lnet/minecraft/class_1799;method_7977(Lnet/minecraft/class_2561;)Lnet/minecraft/class_1799;",
+      "updateResult": "Lnet/minecraft/class_1706;method_24928()V",
+      "setNewItemName": "Lnet/minecraft/class_1706;method_7625(Ljava/lang/String;)V"
+    },
+    "space/ryzhenkov/colorfulanvils/mixins/AnvilScreenMixin": {
+      "setup": "Lnet/minecraft/class_471;method_25445()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "space/ryzhenkov/colorfulanvils/mixins/AnvilScreenHandlerMixin": {
+        "Lnet/minecraft/item/ItemStack;setCustomName(Lnet/minecraft/text/Text;)Lnet/minecraft/item/ItemStack;": "Lnet/minecraft/class_1799;method_7977(Lnet/minecraft/class_2561;)Lnet/minecraft/class_1799;",
+        "updateResult": "Lnet/minecraft/class_1706;method_24928()V",
+        "setNewItemName": "Lnet/minecraft/class_1706;method_7625(Ljava/lang/String;)V"
+      },
+      "space/ryzhenkov/colorfulanvils/mixins/AnvilScreenMixin": {
+        "setup": "Lnet/minecraft/class_471;method_25445()V"
+      }
+    }
+  }
+}

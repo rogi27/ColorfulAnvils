@@ -1,0 +1,3 @@
+v1	named	intermediary
+FIELD	space/ryzhenkov/colorfulanvils/mixins/AnvilScreenHandlerMixin	Ljava/lang/String;	newItemName	field_7774
+FIELD	space/ryzhenkov/colorfulanvils/mixins/AnvilScreenMixin	Lnet/minecraft/client/gui/widget/TextFieldWidget;	nameField	field_2821
