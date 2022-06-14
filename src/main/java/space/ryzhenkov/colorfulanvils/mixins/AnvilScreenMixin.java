@@ -1,6 +1,5 @@
 package space.ryzhenkov.colorfulanvils.mixins;
 
-import net.minecraft.client.gui.screen.TitleScreen;
 import net.minecraft.client.gui.screen.ingame.AnvilScreen;
 import net.minecraft.client.gui.widget.TextFieldWidget;
 import org.spongepowered.asm.mixin.Mixin;
